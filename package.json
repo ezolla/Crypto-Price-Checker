@@ -1,0 +1,16 @@
+{
+  "name": "crypto-price-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ethan Zoller",
+  "license": "MIT",
+  "dependencies": {
+    "cryptocompare": "^1.0.0",
+    "discord.js": "^11.4.2",
+    "node-fetch": "^2.3.0"
+  }
+}
